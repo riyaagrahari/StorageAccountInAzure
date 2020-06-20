@@ -7,7 +7,7 @@
 - queues and 
 - tables.
 
-There are also other attributes associated to storage accounts like
+There are also other attributes associated to storage accounts like:
 
 ## Access tiers - Hot, Cold, Archive
 
@@ -17,9 +17,9 @@ There are also other attributes associated to storage accounts like
 
 ## Redundancy - LRS, ZRS, GRS
 
-LRS - Locally Redundant Storage (locally in a region)
-ZRS - Zone Redundant Storage (between availability zones)
-GRS - Geo zone Redundant Storage (across region)
+- LRS - Locally Redundant Storage (locally in a region)
+- ZRS - Zone Redundant Storage (between availability zones)
+- GRS - Geo zone Redundant Storage (across region)
 
 ## Template:
 
