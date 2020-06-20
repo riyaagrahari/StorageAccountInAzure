@@ -11,9 +11,9 @@ There are also other attributes associated to storage accounts like
 
 ## Access tiers - Hot, Cold, Archive
 
-Hot Tier - low latency, high storage cost, better performance.
-Cold Tier - access to data upto 30 days old, less storage cost, more latency.
-Archive - access to data upto 180 days old, least storage cost, most latency. 
+- Hot Tier - low latency, high storage cost, better performance.
+- Cold Tier - access to data upto 30 days old, less storage cost, more latency.
+- Archive - access to data upto 180 days old, least storage cost, most latency. 
 
 ## Redundancy - LRS, ZRS, GRS
 
@@ -36,6 +36,7 @@ GRS - Geo zone Redundant Storage (across region)
 ![snip3](https://user-images.githubusercontent.com/24872414/85196471-0395bd80-b2f8-11ea-86d9-8ec7caededf9.PNG)
 
 ## Storage Explorer demo
+
 - Copy connection string from Key 2 from Storage Account - Access Keys on the portal as shown below
 
 ![snip4](https://user-images.githubusercontent.com/24872414/85196573-a9e1c300-b2f8-11ea-9ff4-afb9cd55530b.PNG)
