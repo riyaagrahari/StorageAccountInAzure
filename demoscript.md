@@ -1,6 +1,6 @@
 # Storage Account in Azure
 
-## Storage Account are of different types in Microsoft Azure namely 
+## Storage Account are of different types in Microsoft Azure namely: 
 
 - blob containers, 
 - file shares,
