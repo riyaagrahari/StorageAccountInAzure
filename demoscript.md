@@ -22,11 +22,11 @@ We will now be deploying storage account in Azure with Standard LRS as redundanc
 
 `az deployment group create --resource-group <resource-group-name> --template-file <path-to-template>`
 
-### Output of Deployment of ARM template using cloud shell
+## Output of Deployment of ARM template using cloud shell
 
 ![snip3](https://user-images.githubusercontent.com/24872414/85196471-0395bd80-b2f8-11ea-86d9-8ec7caededf9.PNG)
 
-### Storage Explorer demo
+## Storage Explorer demo
 We can look forward to the Storage Explorer Demo and the various types of storage we can access:
 
 - Step 1: Copy connection string from Key 2 from Storage Account - Access Keys on the portal as shown below
