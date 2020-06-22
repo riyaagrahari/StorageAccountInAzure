@@ -3,18 +3,22 @@ Storage Account in Azure provides highly scalable and available storage units wh
 There are also other attributes associated to storage accounts like
 Access tiers - Hot, Cold, Archive
 Redundancy - LRS, ZRS, GRS
-- Hot Tier - low latency, high storage cost, better performance.
-- Cold Tier - access to data upto 30 days old, less storage cost, more latency.
-- Archive - access to data upto 180 days old, least storage cost, most latency. 
 
 
 ## Template:
+
+ARM Templates are Azure Resource Manager Templates which are written in declarative format and includes JSON objects.
+We will now be deploying storage account in Azure with Standard LRS as redundancy type using the template below:
 
 ![snip1](https://user-images.githubusercontent.com/24872414/85196094-5a4dc800-b2f5-11ea-8f0a-aec9bd4f8050.PNG)
 
 ![snip2](https://user-images.githubusercontent.com/24872414/85196145-b6b0e780-b2f5-11ea-8f11-3637936ef4e2.PNG)
 
 ## Deploy Azure template for storage account using cloud shell 
+
+- Step 1: Go to Azure Portal and select Cloud Shell option from the portal.
+- Step 2: Select Azure CLI option from the cloud shell.
+- Step 3: Run the following command to deploy storage account.
 
 `az deployment group create --resource-group <resource-group-name> --template-file <path-to-template>`
 
