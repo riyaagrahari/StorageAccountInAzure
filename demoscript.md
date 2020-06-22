@@ -11,9 +11,8 @@ Redundancy - LRS, ZRS, GRS
 ARM Templates are Azure Resource Manager Templates which are written in declarative format and includes JSON objects.
 We will now be deploying storage account in Azure with Standard LRS as redundancy type using the template below:
 
-![snip1](https://user-images.githubusercontent.com/24872414/85196094-5a4dc800-b2f5-11ea-8f0a-aec9bd4f8050.PNG)
+![snip6](https://user-images.githubusercontent.com/24872414/85270654-417d1800-b497-11ea-9271-c46e891a9f2f.PNG)
 
-![snip2](https://user-images.githubusercontent.com/24872414/85196145-b6b0e780-b2f5-11ea-8f11-3637936ef4e2.PNG)
 
 ### Deploy Azure template for storage account using cloud shell 
 
