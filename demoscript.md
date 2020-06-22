@@ -19,7 +19,7 @@ We will now be deploying storage account in Azure with Standard LRS as redundanc
 - Step 2: Select Azure CLI option from the cloud shell.
 - Step 3: Run the following command to deploy storage account.
 
-`az deployment group create --resource-group <resource-group-name> --template-file <path-to-template>`
+  `az deployment group create --resource-group <resource-group-name> --template-file <path-to-template>`
 
 #### 3. Output:
 
