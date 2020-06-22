@@ -1,7 +1,7 @@
 ## Introduction: Storage Account in Azure
 Storage Account in Azure provides highly scalable and available storage units which is accessible from anywhere. There are different types of storage accounts in Microsoft Azure namely : blob, file-shares, queues, tables.
 There are also other attributes associated to storage accounts like
-Access tiers - Hot, Cold, Archive
+Access tiers - Hot, Cold, Archive ,
 Redundancy - LRS, ZRS, GRS
 
 ## Steps to Deploy:
