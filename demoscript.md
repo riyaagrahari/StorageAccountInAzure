@@ -1,6 +1,6 @@
 # Storage Account in Azure
 
-## Introduction: 
+## Introduction 
 Storage Account in Azure provides highly scalable and available storage units which is accessible from anywhere. There are different types of storage accounts in Microsoft Azure i.e. Blob, File shares, Queues, Tables. There are also other attributes associated to storage accounts like Access tiers (Hot, Cold, Archive) and Redundancy (LRS, ZRS, GRS)
 
 ## Steps to Deploy Azure Storage Account using ARM Template
@@ -25,7 +25,7 @@ We will now be deploying storage account in Azure with Standard LRS as redundanc
 
 ![snip3](https://user-images.githubusercontent.com/24872414/85196471-0395bd80-b2f8-11ea-86d9-8ec7caededf9.PNG)
 
-## Connecting the Storage Account using Azure Storage Explorer demo
+## Connecting the Storage Account using Azure Storage Explorer
 We can access storage account from Azure Storage Explorer using the below steps:
 
 - Step 1: Copy connection string from Key 2 from Storage Account - Access Keys on the portal as shown below-
